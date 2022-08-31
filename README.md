@@ -35,8 +35,4 @@ The goal is to measure temperature at different depth in a rock for several mont
 A friting file is available and a PCB can be produced from the file.
 |Circuit                    |Schematic                      |PCB                 |
 |---------------------------|-------------------------------|--------------------|
-|![Circuit](img/circuit.svg)|![Schematic](img/schematic.svg)|![PCB](/img/pcb.svg)|
-## Authors
-
-- [@Naelopode](https://github.com/naelopode)
-
+|![Circuit](img/circuit.svg)|![Schematic](img/schematic.svg)|![PCB](/img/PCB.svg)|
