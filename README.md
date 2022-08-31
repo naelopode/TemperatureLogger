@@ -1,6 +1,6 @@
 
 # Temperature Logger
-![](img/unil_logo.svg)![](img/risk_logo.png)
+![](img/logo.svg)
 
 This projet was realized during a mendatory civil service for the RISK group of the the institute of earth sciences (ISTE) of Lausanne University (UNIL).
 
