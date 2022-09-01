@@ -6,7 +6,8 @@ This projet was realized during a mendatory civil service for the RISK group of 
 
 The goal is to measure temperature at different depth in a rock for several months. With this version we can log 6 temperatures sensors relatively precisely and log this data on an SD card. The logger should be able to run for several months outside.
 
-![](img/temp_graph.fig)
+# Capture data example
+![](img/temp_graph.svg)
 
 # Material
 | Part                                               | Quantity |
