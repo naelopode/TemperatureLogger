@@ -64,15 +64,15 @@ A friting file is available and a PCB can be produced from the file.
 |![Circuit](img/circuit.png)|![Schematic](img/schematic.png)|![PCB](/img/PCB.png)|
 
 # Ports configuration
-| Feather M0 Port        | Corresponding Port        | | Feather M0 Port        | Corresponding Port        |
-|------------------------|---------------------------| |------------------------|---------------------------|
-| D0                     | RTC DS3231 (SQW)          | | D12                    | MAX31865 #1-#5 (SDO)      |
-| D1                     | MAX31865 #2 (CS)          | | D13                    | MAX31865 #1-#5 (CLK)      |
-| D5                     | MAX31865 #1 (CS)          | | A0                     | DS18B20 (DATA)            |
-| D6                     | MAX31865 #4 (CS)          | | SCL                    | RTC DS3131 (SCL)          |
-| D9                     | MAX31865 #3 (CS)          | | SDA                    | RTC DS3131 (SCA)          |
-| D10                    | MAX31865 #5 (CS)          | | 3.3V                   | All Vin ports             |
-| D11                    | MAX31865 #1-#5 (SDI)      | | GND                    | All GND ports             |
+| Feather M0 Port        | Corresponding Port        | Feather M0 Port        | Corresponding Port        |
+|------------------------|---------------------------|------------------------|---------------------------|
+| D0                     | RTC DS3231 (SQW)          | D12                    | MAX31865 #1-#5 (SDO)      |
+| D1                     | MAX31865 #2 (CS)          | D13                    | MAX31865 #1-#5 (CLK)      |
+| D5                     | MAX31865 #1 (CS)          | A0                     | DS18B20 (DATA)            |
+| D6                     | MAX31865 #4 (CS)          | SCL                    | RTC DS3131 (SCL)          |
+| D9                     | MAX31865 #3 (CS)          | SDA                    | RTC DS3131 (SCA)          |
+| D10                    | MAX31865 #5 (CS)          | 3.3V                   | All Vin ports             |
+| D11                    | MAX31865 #1-#5 (SDI)      | GND                    | All GND ports             |
 
 
 # Parameters
