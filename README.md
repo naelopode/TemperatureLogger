@@ -52,10 +52,6 @@ You also need the additional board package for the Adafruit SAMD Boards.
 > https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
 3. In _tools_ > _Card type_ > _Adafruit Feather M0 (SAMD21)_ 
 
-Additional board packages are available once
->https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
-
-is added in "Additional Boards Manager URLs" in "Preference" on the Arduino IDE or 
 
 # Circuit
 A friting file is available and a PCB can be produced from the file.
