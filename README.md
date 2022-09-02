@@ -4,7 +4,7 @@
 
 This projet was realized during two mandatory civil services for the RISK group of the the institute of earth sciences (ISTE) of Lausanne University (UNIL) in 2021 and 2022.
 
-The goal is to measure temperatures at different depth in a rock for several months. With this version we can log up to 6 external temperature sensors and one internal temperature sensor and log this data on an SD card. The logger should be able to run for several months outside.
+The goal is to measure temperatures at different depths in a rock for several months. With this version we can log up to 6 external temperature sensors and one internal temperature sensor and log this data on an SD card. The logger should be able to run for several months outside.
 
 # Containing
 1. Arduino Code
